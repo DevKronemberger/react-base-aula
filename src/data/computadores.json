@@ -1,0 +1,26 @@
+[
+  {
+    "url" : "imagens/taça-brasil.JPG",
+    "nome": "taça brasil 1968",
+    "link_original": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*K6VsUwJr6V1imddfmNkzbg.jpeg"
+    
+   },
+   {
+    "url" : "imagens/conmebol-1993.jpg",
+    "nome": "Copa CONMEBOL de 1993",
+    "link_original": "https://i0.wp.com/arenageral.com.br/wp-content/uploads/2023/02/botafogo-1993.jpg?resize=768%2C594&ssl=1"
+    
+   },
+   {
+    "url" : "imagens/brasileiro-serie-b.jpg",
+    "nome": "brasileiro série B",
+    "link_original": "https://www.blogdedaltroemerenciano.com.br/wp-content/uploads/2015/11/zz-botafogo.jpg"
+    
+   },
+   {
+    "url" : "imagens/rj-sp-1962.jpg",
+    "nome": "Torneios Rj-Sp 1962",
+    "link_original": "https://www.verdazzo.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/10/1962_palbot-1024x484.jpg.webp"
+    
+   }
+]
