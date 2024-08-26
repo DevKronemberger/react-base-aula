@@ -1,3 +1,5 @@
+Trabalho da matéria Projeto front-end realizado no dia 26/08/2024 na instituição Ibmec-Rj. Professor Eduardo Mangeli
+
 # React Base Project
 
 Esse é um projeto de uma aplicação base usando React e Firebase construído com motivações didáticas.
